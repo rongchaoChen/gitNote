@@ -7,3 +7,10 @@ git config --global user.email "邮箱"
 ### git init 初始化终端
 
 
+# git visual Code 链接
+##  设置：git.path : " git路径"
+##终端设置成git-bash终端<br>
+##1. terminal.integrated.shell.windows: path
+
+
+
